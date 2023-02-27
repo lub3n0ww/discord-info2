@@ -1,0 +1,10 @@
+local info = {
+  discord = "https://discord.gg/GNjtYPZU";
+  status = "enabled";
+  announcement = "";
+  support_discord = {
+    strucid = "antoo#1612";
+    da_hood = "antoo#1612";
+  }
+}
+return info
